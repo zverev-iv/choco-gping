@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+	<metadata>
+		<id>gping</id>
+		<version>0.1.6</version>
+		<packageSourceUrl>https://github.com/zverev-iv/choco-gping</packageSourceUrl>
+		<owners>zverev-iv</owners>
+		<title>gping (Install)</title>
+		<authors>Tom Forbes</authors>
+		<projectUrl>https://github.com/orf/gping</projectUrl>
+		<copyright>2020 Tom Forbes</copyright>
+		<licenseUrl>https://raw.githubusercontent.com/orf/gping/master/LICENSE</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<docsUrl>https://github.com/orf/gping/blob/master/readme.md</docsUrl>
+		<bugTrackerUrl>https://github.com/orf/gping/issues</bugTrackerUrl>
+		<tags>gping ping graph cli terminal</tags>
+		<summary>Ping, but with a graph</summary>
+		<description>Ping, but with a graph</description>
+		<releaseNotes>https://github.com/orf/gping/releases</releaseNotes>
+	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
+</package>
