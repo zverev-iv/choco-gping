@@ -1,3 +1,0 @@
-#TYPE System.Management.Automation.PSCustomObject
-"url64bit";"checksum64";"checksumType64"
-"https://github.com/orf/gping/releases/download/v0.1.7/gping-Windows-x86_64.zip";"B2D18608F8B0CD82A1B3E8AB4887A1B2870CEF0DF19E486CE4068113C44E93A1";"sha256"
