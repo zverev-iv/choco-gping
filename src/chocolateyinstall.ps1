@@ -4,8 +4,8 @@ $packageArgs = @{
 	packageName    = $env:ChocolateyPackageName
 	unzipLocation  = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 	softwareName   = "gping"
-	url64bit       = "https://github.com/orf/gping/releases/download/v1.0.0/gping-Windows-x86_64.zip";
-	checksum64     = "487BF24A17569E2E0FD3430033AAA8E108E98F789F14F9B10C9FBB0022BAC1F8";
+	url64bit       = "https://github.com/orf/gping/releases/download/v1.0.1/gping-Windows-x86_64.zip";
+	checksum64     = "824FE3BA3A800F38A8D20BEB0BB4F0CE46FEA957D4501750AA2F9E7CF015BC86";
 	checksumType64 = "sha256";
 }
 
