@@ -11,7 +11,7 @@ var packageInfo = new ChocolateyPackSettings {
     Authors                  = new[] {
         "Tom Forbes"
         },
-    Copyright                = "2021 Marp Team",
+    Copyright                = "2021 Tom Forbes",
     ProjectUrl               = new Uri("https://github.com/orf/gping"),
     DocsUrl                  = new Uri("https://github.com/orf/gping/blob/master/readme.md"),
     BugTrackerUrl            = new Uri("https://github.com/orf/gping/issues"),
