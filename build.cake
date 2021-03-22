@@ -3,7 +3,7 @@ var target = Argument("target", "Publish");
 var packageInfo = new ChocolateyPackSettings {
     //PACKAGE SPECIFIC SECTION
     Id                       = "gping",
-    Version                  = "1.2.0",
+    Version                  = "1.2.1",
     PackageSourceUrl         = new Uri("https://github.com/zverev-iv/choco-gping"),
     Owners                   = new[] {"zverev-iv"},
     //SOFTWARE SPECIFIC SECTION
